@@ -43,7 +43,7 @@ function App() {
  
  
 
-      <Warning/>
+      {/* <Warning/> will give a warning */}
       
       
     </div>
