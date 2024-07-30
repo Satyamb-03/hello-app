@@ -7,11 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App name='Satyam' id='01' email='satyam@gmail.com' />
-    <App name='Hem' id='02' email='hem@gmail.com' />
-    <App name='Sam' id ='03' email='sam@gmail.com' />
-    
-    
+    <App  />
   </React.StrictMode>
 );
 
